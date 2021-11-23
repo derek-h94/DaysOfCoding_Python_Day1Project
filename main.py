@@ -8,3 +8,6 @@
 
 #5. Make sure the input cursor shows on a new line, see the example at:
 #   https://replit.com/@appbrewery/band-name-generator-end
+
+print("Hello! \n")
+print(input("What city did you grow up in? \n"))
